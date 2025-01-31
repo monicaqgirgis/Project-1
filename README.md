@@ -3,3 +3,4 @@ Are prices affordable in Irvine, CA? Are average home prices relative to average
 Group 5 Members:
   Jennifer Corral
 Alyssa Berridge 
+krishnaa sigdel
