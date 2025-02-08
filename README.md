@@ -1,14 +1,30 @@
 # Project-1
-<<<<<<< HEAD
- What age group has colon cancer been most prevalent in within the last 20years
 =======
-What age group has colon cancer been most prevalent in within the last 20years
->>>>>>> 1747753defca21b03abb010b3d906e0c1c1dcd07
+
+# The driving Question
+Has colon cancer rates increased overtime in the youth demogrphic, ages infant to 20years old?
+
+# Hypothesis 
+Colon Cancer rates have increased within the youth demographics over the years despite the continual advancement of modern medicine.
+#The breakdown
+1. A trend line that shows the rise or fall of cases overtime. 
+Does colon cancer diagnosis have a clear rise, fall, or do they remain consistent over the years?
+Are there certain variables that have a clear rise or fall, if the whole does not?
+2. Data visuals filtered age.
+What age or age groups are diagnosed with colon cancer the least, and what age group is diagnosed with colon cancer the most?
+3. Data visuals filtered by the medical term for Sex.
+What's sex is typically diagnosed with colon cancer the most, and which sex is diagnosed with colon cancer the least?
+4. Data visuals filtered by ethnicity.
+Again, which ethnicity is most likely to be diagnosed with colon cancer at various stages? Is there no clear distinction?
+
+^ All the questions are probing, and may develop as the code does. 
 # Group 5 Members:
   Jennifer Corral
   Alyssa Berridge 
-  krishnaa sigdel
+  Krishnaa Sigdel
   Monica Girgis
   Haby Sarr
-# Possible data source 
-
+  
+# Data source 
+Cleaned Cancer Project .csv.zip
+Defintion_for_data.txt.zip
