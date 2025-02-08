@@ -1,0 +1,17 @@
+Local, Regional, and distant (Distant metastatic) refer to the stages log after initial diagnosis. Typically these terms are used after your primary diagnosis to determine the stage that you are currently in. But they're also terms used explain what stage you are in if you relapse. 
+
+Local: For this data it refers to colon cancer at the site of your original tumor. Basically Cancer confined to its original site, often associated with early stages (like stage 1 but not a direct translation).
+
+Regional: This means the cancer has spread to the lymph nodes near the site of your original tumor
+*Cancer spread to nearby tissues or lymph nodes, potentially corresponding to later stages (like stage 2 or 3) depending on the cancer type
+
+Distant metastatic: This means the cancer recurred and spread to other parts of your body, such as your liver, lung, ovaries, adrenal glands, bone, or brain.
+Cancer spread to distant organs in the body, typically considered stage 4 cancer.
+
+The blanks are Data items that are not required for 2024 diagnoses but were collected in years prior to 2024 must be transmitted to SEER as blanks for cases diagnosed in 2024 and subsequent years. Descriptions of historic data items, allowable codes, and coding rules can be found in historic coding manuals on the SEER website.
+
+https://seer.cancer.gov/tools/codingmanuals/historical.html
+
+
+
+In sit u is a term meaning In the natural position of diagnosis. 
