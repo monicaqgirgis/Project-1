@@ -2,10 +2,10 @@
 =======
 
 # The driving Question
-Has colon cancer rates increased overtime in the youth demogrphic, ages infant to 20years old?
+Has colon cancer rates increased over the last few years in the US
 
 # Hypothesis 
-Colon Cancer rates have increased within the youth demographics over the years despite the continual advancement of modern medicine.
+Colon Cancer rates have increased over the years despite the continual advancement of modern medicine.
 #The breakdown
 1. A trend line that shows the rise or fall of cases overtime. 
 Does colon cancer diagnosis have a clear rise, fall, or do they remain consistent over the years?
@@ -26,5 +26,5 @@ Again, which ethnicity is most likely to be diagnosed with colon cancer at vario
   Haby Sarr
   
 # Data source 
-Cleaned Cancer Project .csv.zip
 Defintion_for_data.txt.zip
+/Users/alyssaberridge/Desktop/Modified_Cleaned_Cancer_Project.csv.zip
