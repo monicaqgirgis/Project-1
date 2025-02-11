@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib
+import matplotlib.pyplot as plt 
 import numpy as np
 # Load your CSV file into a DataFrame
 df = pd.read_csv(r'Cleaned_Cancer_Projectv2.csv')
@@ -35,3 +35,28 @@ print(race_correlation)
 
 print("\nCorrelation between Regional Cancer Stage and Other Cancer Stages:")
 print(regional_correlation)
+# Pie Chart: Distribution of Cancer Stages (In_situ, Localized, Regional, Distant)
+cancer_stages = ['In_situ', 'Localized', 'Regional', 'Distant']
+stage_counts = df[cancer_stages].sum()  # Sum across rows for each stage
+
+plt.figure(figsize=(8, 6))
+plt.pie(stage_counts, labels=stage_counts.index, autopct='%1.1f%%', startangle=90, colors=['lightblue', 'orange', 'green', 'red'])
+plt.title('Distribution of Cancer Stages')
+plt.axis('equal')  # Equal aspect ratio ensures that pie chart is circular.
+# Save the Pie Chart
+plt.savefig("pie_chart.png", dpi=300, bbox_inches="tight")
+print("Pie chart saved as 'pie_chart.png'")
+plt.show()
+
+# Bar Chart: Total count of each Cancer Stage across all records
+plt.figure(figsize=(8, 6))
+stage_counts.plot(kind='bar', color=['lightblue', 'orange', 'green', 'red'])
+plt.title('Cancer Stages Distribution (Bar Chart)')
+plt.xlabel('Cancer Stages')
+plt.ylabel('Count')
+plt.xticks(rotation=0)
+# Save the Bar Chart
+plt.savefig("bar_chart.png", dpi=300, bbox_inches="tight")
+print("Bar chart saved as 'bar_chart.png'")
+print("Results saved to correlation_output.txt")
+plt.show()
