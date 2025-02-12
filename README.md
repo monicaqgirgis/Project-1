@@ -25,6 +25,8 @@ Again, which ethnicity is most likely to be diagnosed with colon cancer at vario
   Monica Girgis
   Haby Sarr
   
-# Data source 
-Defintion_for_data.txt.zip
-/Users/alyssaberridge/Desktop/Modified_Cleaned_Cancer_Project.csv.zip
+# Data source
+This data comes from the National Cancer Institute within the SEER database
+https://seer.cancer.gov
+
+
