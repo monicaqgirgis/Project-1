@@ -5,7 +5,7 @@
 Has colon cancer rates increased over the last few years in the US
 
 # Hypothesis 
-Colon Cancer rates have increased over the years despite the continual advancement of modern medicine.
+Colon Cancer(exluding rectum) diagnosis rates have increased in the US over the years despite the continual advancement of modern medicine.
 #The breakdown
 1. A trend line that shows the rise or fall of cases overtime. 
 Does colon cancer diagnosis have a clear rise, fall, or do they remain consistent over the years?
@@ -25,6 +25,8 @@ Again, which ethnicity is most likely to be diagnosed with colon cancer at vario
   Monica Girgis
   Haby Sarr
   
-# Data source 
-Defintion_for_data.txt.zip
-/Users/alyssaberridge/Desktop/Modified_Cleaned_Cancer_Project.csv.zip
+# Data source
+This data comes from the National Cancer Institute within the SEER database
+https://seer.cancer.gov
+
+
