@@ -30,9 +30,9 @@ https://seer.cancer.gov
 This specific dataset includes colon cancer (excluding rectum) based on year, stage of diagnosis, ethnicity, gender, and age. 
 
 # Content breakdown for this repository
-Jupiter notebook with code used to create graphs and Analysis.
-Output data folder with all visuals 
-Powerpoint presentation 
-Report 
-Resource folder with cleaned CSV, Raw CSV, Jupiter notebook with code used to clean, and text file with written definitions to aid in analysis. 
+1. Jupiter notebook with code used to create graphs and Analysis.
+2. Output data folder with all visuals. 
+3. Powerpoint presentation. 
+4. Report. 
+5. Resource folder with cleaned CSV, Raw CSV, Jupiter notebook with code used to clean, and text file with written definitions to aid in analysis. 
 
