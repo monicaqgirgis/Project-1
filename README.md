@@ -11,32 +11,28 @@
 Have colon cancer rates increased over the last few years in the US
 
 ## The embedded questions to help form the final analysis
-1. 
-2. 
-3. 
+1. What year has the most cancer cases?​ What has the least? Is there a specific trend? 
+2. What age is cancer most prevalent?
+3. What race is most affected by cancer?​ What trend are we seeing in these specific populations?
+4. What sex has an increased risk for cancer?​ What trends are we seeing in accordance to each sex?
+   
 
 # Our Hypothesis 
 Colon Cancer(excluding rectum) diagnosis rates have increased in the US over the last few years despite the continual advancement of modern medicine.
-
-## The breakdown
-1. A trend line that shows the rise or fall of cases over time. 
-Does colon cancer diagnosis have a clear rise, or fall, or do they remain consistent over the years?
-Are there certain variables that have a clear rise or fall, if the whole does not?
-2. Data visuals filtered age.
-What age or age groups are diagnosed with colon cancer the least, and what age group is diagnosed with colon cancer the most?
-4. Data visuals filtered by the medical term for Sex.
-Which sex is typically diagnosed with colon cancer the most, and which sex is diagnosed with colon cancer the least?
-5. Data visuals filtered by ethnicity.
-Again, which ethnicity is most likely to be diagnosed with colon cancer at various stages? Is there no clear distinction?
-
-^ All the questions are probing, and may develop as the code does. 
+ 
 
 # Conclusion and findings 
-
+It has been found that the hypothesis is primarily correct as well as incorrect. There is a decreasing trend in regional colon cancer cases, excluding rectum overall in the demographics we explored. However, and most importantly, there has been a spike in regional cases from 2021 to 2022. It is acknowledged that there would need to be further analysis of the years following 2022 to determine whether or not there is an increasing trend, but there is a noticeable Spike from the noted years. While creating a further analysis, it was discovered from 2005 to 2022 colon cancer was most prevalent in ages 50 to 85 and up, White individuals were more likely to be diagnosed with regional cancer, and females were 51% more likely to be diagnosed.
   
 # Data source
 This data comes from the National Cancer Institute within the SEER database
 https://seer.cancer.gov
-This specific dataset includes different stages of colon cancer (excluding rectum) based on year, stage of diagnosis, ethnicity, gender, and age. 
+This specific dataset includes colon cancer (excluding rectum) based on year, stage of diagnosis, ethnicity, gender, and age. 
 
+# Content breakdown for this repository
+Jupiter notebook with code used to create graphs and Analysis.
+Output data folder with all visuals 
+Powerpoint presentation 
+Report 
+Resource folder with cleaned CSV, Raw CSV, Jupiter notebook with code used to clean, and text file with written definitions to aid in analysis. 
 
